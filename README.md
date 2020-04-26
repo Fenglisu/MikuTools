@@ -1,6 +1,6 @@
 <p align="center"><img src="./static/icon.png"
         alt="Logo" width="128" height="128" style="max-width: 100%;"></p>
-<h1 align="center">Miku Tools</h1>
+<h1 align="center">Miku Tools</h1>                                             
 <p align="center">一个轻量的工具集合   </p>
 <p align="center">
     <a href="https://github.com/Ice-Hazymoon/MikuTools/blob/master/LICENSE">
@@ -12,7 +12,7 @@
     <a href="http://imiku.me/">
         <img src="https://badgen.net/badge/author/Ice-Hazymoon/f2a" alt="Author">
     </a>
-    <a href="https://miku.tools/">
+    <a href="a">
         <img src="https://img.shields.io/badge/%F0%9F%9A%80-open--in--browser-e10079.svg" alt="Live Demo">
     </a>
 </p>
